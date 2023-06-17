@@ -1,0 +1,25 @@
+form {
+  text-align: center;
+}
+
+.news-app {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.query-input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 1.2rem;
+  border: 3px solid black;
+  border-radius: 50px;
+}
+
+.btn-submit {
+  margin-bottom: 20px;
+  padding: 20px 60px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border-radius: 50px;
+}
